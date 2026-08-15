@@ -1,0 +1,12 @@
+# Treat platform-generated code as vendored so GitHub's language
+# stats reflect the actual project language (Dart), not the
+# auto-generated native scaffolding.
+
+android/* linguist-vendored
+ios/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+windows/* linguist-vendored
+web/* linguist-vendored
+
+*.g.dart linguist-generated
