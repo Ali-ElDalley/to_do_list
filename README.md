@@ -44,8 +44,8 @@ lib/
 ### Installation
 
 ```bash
-git clone https://github.com/Ali-ElDalley/simple-todo-list.git
-cd simple-todo-list
+git clone https://github.com/Ali-ElDalley/to_do_list.git
+cd to_do_list
 flutter pub get
 flutter run
 ```
